@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AvanDokkum
-- 👀 I’m interested in smart-homes, self-sufficient farming, and everything dog related :dog: 
-- 🌱 I’m currently learning Java, Spring, React and cloud hosting
+- 👋 Hi, I’m Arjan
+- 👀 I’m interested in self-sufficient farming, and everything to do with dogs:dog: 
+- 🌱 I’m now learning Java and Spring Security
 - ⚡ Fun fact: My dog's a magician, he's a labracadabrador! 
 
 <!---
