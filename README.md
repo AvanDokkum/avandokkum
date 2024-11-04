@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjan
-- 👀 I’m interested in self-sufficient farming, and everything to do with dogs:dog: 
-- 🌱 I’m now learning Java and Spring Security
+- 👀 I’m interested in self-sufficient farming, and everything to do with dogs🐶 
+- 🌱 I’m now learning Java, Javascript, Spring Security and React
 - ⚡ Fun fact: My dog's a magician, he's a labracadabrador! 
 
 <!---
