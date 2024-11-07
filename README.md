@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Arjan
-- 🌱 I’m now learning Java, Javascript, Spring Security and React
+- 👋 Hi, I’m Arjan!
+- 🌱 I’m now learning Java, Javascript, Spring Security and React.
 - ⚡ Fun fact: My dog's a magician, he's a labracadabrador! 
 
 <!---
