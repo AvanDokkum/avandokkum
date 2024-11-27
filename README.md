@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjan!
-- 🌱 I’m now learning Java, Javascript, Spring Security and React.
+- 🌱 Learning SpringSecurity6.4 / OAuth2.0
 - ⚡ Fun fact: My dog's a magician, he's a labracadabrador! 
 
 <!---
