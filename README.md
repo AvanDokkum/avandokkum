@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjan!
-- 🌱 Learning SpringSecurity6.4 / OAuth2.0
+- 🌱 I'm learning more about Angular
 - ⚡ Fun fact: My dog's a magician, he's a labracadabrador! 
 
 <!---
