@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Arjan!
-- 🌱 I'm learning more about Angular
+- 🌱 Fullstack Java developer since 2023, Web-developer since and 2018.
+- 🌱 At the moment i'm learning more about Spring and Angular
+  
 - ⚡ Fun fact: My dog's a magician, he's a labracadabrador! 
 
 <!---
