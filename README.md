@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Arjan! This is my NEW github profile.
-- 💻 Fullstack Java developer since 2023, Web-developer since and 2018.
+- 👷 Hire me! check my resume at avandokkum.github.io
+
+- 💻 Fullstack Java developer since October 2022, and Web-developer/design since 2018.
 - 🌱 At the moment i'm learning more about Java, Spring Security and Angular
+- ☕ Also doing exercises on Exercism.com
   
 - 🐶 Fun fact: My dog's a magician, he's a labracadabrador! 
 
