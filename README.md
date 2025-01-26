@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjan! This is my NEW github profile.
-- 👷 Hire me! check my resume at avandokkum.github.io
+- 👷 Hire me! check my resume at [avandokkum.github.io](https://avandokkum.github.io)
 
 - 💻 Fullstack Java developer since October 2022, and Web-developer/design since 2018.
 - 🌱 At the moment i'm learning more about Java, Spring Security and Angular
