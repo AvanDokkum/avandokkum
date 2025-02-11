@@ -2,7 +2,7 @@
 - 👷 Looking for a job in The Netherlands! Check out my CV/resume at [avandokkum.github.io](https://avandokkum.github.io)
 
 - 💻 Fullstack Java developer since October 2022, and Web-developer/designer since 2018.
-- 🌱 At the moment i'm learning more about Java, Spring Security and Angular
+- 🌱 At the moment i'm learning more about Java, Spring, Angular and networking
 - ☕ Also doing exercises on Exercism.com
   
 - 🐶 Fun fact: My dog's a magician, he's a labracadabrador! 
