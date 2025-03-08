@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arjan! This is my NEW github profile. (old account = avd-web)
+- 👋 Hi, I’m Arjan! This is my NEW github profile.
 - 👷 Looking for a job in The Netherlands! Check out my CV/resume at [avandokkum.github.io](https://avandokkum.github.io)
 
 - 💻 Fullstack Java developer since October 2022, and Web-developer/designer since 2018.
