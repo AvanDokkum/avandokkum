@@ -1,12 +1,12 @@
 - 👋 Hi, this is my github profile.
 - 💻 I'm a Test Automation Engineer
 - 👷 Take a look at my CV at: [avandokkum.github.io](https://avandokkum.github.io)
-  
+  <br><br>
 - 🌱 At the moment i'm doing:
 -   Test Automation with Selenium or Playwright,
 -   DevOps(CI/CD) & containers(Openshift),
 -   GenAI for testing.
-  
+  <br><br>
 - 🐶 My dog's a magician, he's a labracadabrador! 
 
 <!---
