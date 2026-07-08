@@ -4,7 +4,7 @@
   
 - 🌱 At the moment i'm learning more about genAI for testing, DevOps(CI/CD), containers(Openshift) and Test Automation with Selenium or Playwright.
   
-- 🐶 Fun fact: My dog's a magician, he's a labracadabrador! 
+- 🐶 My dog's a magician, he's a labracadabrador! 
 
 <!---
 AvanDokkum/AvanDokkum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
