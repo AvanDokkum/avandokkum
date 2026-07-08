@@ -3,9 +3,9 @@
 - 👷 Take a look at my CV at: [avandokkum.github.io](https://avandokkum.github.io)
   
 - 🌱 At the moment i'm doing:
-     Test Automation with Selenium or Playwright,
-     DevOps(CI/CD) & containers(Openshift)
-     genAI for testing,
+-   Test Automation with Selenium or Playwright,
+-   DevOps(CI/CD) & containers(Openshift),
+-   GenAI for testing.
   
 - 🐶 My dog's a magician, he's a labracadabrador! 
 
